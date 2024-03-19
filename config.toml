@@ -1,6 +1,6 @@
 baseURL       = "https://www.business-in-europe-association.github.io"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "BEA | University's European Perspective"
 theme         = "roxo-hugo"
 summarylength = 25
 
